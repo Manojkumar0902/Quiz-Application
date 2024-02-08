@@ -9,39 +9,39 @@ const questions=[
         ]
     },
     {
-        question:"HTML stands for?",
+        question:"The Property in CSS used to change the background color of an element is ",
         answers: [
-            {text:"Hypertext Machine Language", correct:false},
-            {text:"Hypertext Markup Language", correct:true},
-            {text:"Hypertext and links Markup Language", correct:false},
-            {text:"None of these", correct:false},
+            {text:"bgcolor", correct:false},
+            {text:"color", correct:false},
+            {text:"background-color", correct:true},
+            {text:"All of the above", correct:false},
         ]
     },
     {
-        question:"HTML stands for?",
+        question:"The CSS property used to control the element's font-size is",
         answers: [
-            {text:"Hypertext Machine Language", correct:false},
-            {text:"Hypertext Markup Language", correct:true},
-            {text:"Hypertext and links Markup Language", correct:false},
-            {text:"None of these", correct:false},
+            {text:"text-style", correct:false},
+            {text:"text-size", correct:false},
+            {text:"font-size", correct:true},
+            {text:"None of the above", correct:false},
         ]
     },
     {
-        question:"HTML stands for?",
+        question:"Which type of JavaScript language is",
         answers: [
-            {text:"Hypertext Machine Language", correct:false},
-            {text:"Hypertext Markup Language", correct:true},
-            {text:"Hypertext and links Markup Language", correct:false},
-            {text:"None of these", correct:false},
+            {text:"Object-Oriented", correct:false},
+            {text:"Object Based", correct:true},
+            {text:"Assembly Language", correct:false},
+            {text:"High Level", correct:false},
         ]
     },
     {
-        question:"HTML stands for?",
+        question:"In the JavaScript, which one of the following is not considered as an error",
         answers: [
-            {text:"Hypertext Machine Language", correct:false},
-            {text:"Hypertext Markup Language", correct:true},
-            {text:"Hypertext and links Markup Language", correct:false},
-            {text:"None of these", correct:false},
+            {text:"Syntax error", correct:false},
+            {text:"Missing of semicolons", correct:false},
+            {text:"Division by zero", correct:true},
+            {text:"Missing of Bracket", correct:false},
         ]
     }
         
